@@ -27,6 +27,3 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-李波  alipayId  2088902567052703 18089230125
